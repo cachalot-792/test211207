@@ -1,4 +1,3 @@
-# cachalot-792.github.io
-参考↓
-自分で作ったWebページをインターネット上に公開しよう！
+# 参考
+自分で作ったWebページをインターネット上に公開しよう！  
 https://prog-8.com/docs/github-pages
